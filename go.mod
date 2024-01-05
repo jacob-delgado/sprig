@@ -1,4 +1,4 @@
-module github.com/jacob-delgado/sprig/v3
+module github.com/jacob-delgado/sprig
 
 go 1.21
 
